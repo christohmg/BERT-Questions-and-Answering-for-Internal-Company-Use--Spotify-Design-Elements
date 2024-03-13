@@ -1,0 +1,42 @@
+
+Design Guidelines
+
+Introduction
+- Welcome to our hub for partner guidelines and assets. We want to make it easy for you to integrate Spotify in your platform while respecting our brand and legal/licensing restrictions.
+
+Attribution
+- When does this apply? Content available through Spotify is owned by many different rights holders. If you use any Spotify metadata (including artist, album and track names, album artwork, and audio playback) it must always be accompanied by the Spotify brand.
+- Attribute with the Spotify logo: To comply with our licensing agreements, you must always attribute content from Spotify with the logo.
+
+Using our content
+- Follow these guidelines for using artwork and/or metadata provided by Spotify. For album and podcast artwork, it must be kept in its original form without animation or distortion.
+
+Browsing Spotify content
+- Platforms that aggregate content from multiple audio providers must give Spotify fair treatment.
+
+Linking to Spotify
+- Always link to the Spotify app for full access to Spotify functionality.
+
+Playing views
+- Follow Spotify's attribution requirements by attributing content from Spotify with either the Spotify logo or icon.
+
+Handling playback actions for podcasts
+- Podcasts should have the option to seek 15 seconds forward or backwards.
+
+Liking a song
+- The Like feature should signal back to Spotify. The liked song must not be saved by the partner.
+
+Using our logo
+- Follow guidelines to ensure the Spotify logo always looks its best. The logo should not be misinterpreted, modified, or added to.
+
+Using our colors
+- Spotify Green is our resting color, used only in situations where the brand palette is not being used.
+
+Logos and naming restrictions
+- Naming your application should not imply endorsement by Spotify.
+
+Fonts
+- We recommend using the default sans-serif font for the platform you are working on.
+
+Thank you
+- If you are having trouble with anything in this guide, please contact the Spotify design team at brandapproval@spotify.com.
